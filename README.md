@@ -25,7 +25,37 @@ Within Packet Tracer, a renowned network simulation tool, the representation of 
 
 
 
+
 **TIME LINE**
+* Plan's choices
+* Elements placement
+* Wiring
+* Switches config
+* Multylayers config
+* Routeurs config
+* VLANS config
+* ACL config
+* SSH/RSA config
+* DCHP/DNS/RADIUS config
+*Final project
+*Final project presentation
+*Final project report
+
+
+***SECURITY***
+
+**SECURITY FEATURE**
+(Elements = purpose)
+- line console 0 = Secures and manages a cisco device
+- No IP domain lookup = Prevents infos leakage, allows mistyped stuff to be treated as errors, reduces attack surface
+- NAT = Provides a level of security by hiding the internal Ip adress of device on the local network from external sources making it more difficult for attackers to directly target individual devices
+- DMZ =  network design strategy that involves creating a buffer zone between an organization's internal network (trusted network) and external untrusted networks, such as the internet
+
+name of the group: Insomniac Company
+
+  
+[Présentation Becode.odp](https://github.com/Vfvs37/let-s-secure-and-design-a-network/files/14890483/Presentation.Becode.odp)
+[SECURE_NETWORK_DESIGN.docx](https://github.com/Vfvs37/let-s-secure-and-design-a-network/files/14890489/SECURE_NETWORK_DESIGN.docx)
 
 
 
