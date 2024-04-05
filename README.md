@@ -25,6 +25,8 @@ Within Packet Tracer, a renowned network simulation tool, the representation of 
 
 
 ***PLAN***
+
+
 ![image](https://github.com/Vfvs37/let-s-secure-and-design-a-network/assets/155911615/44e9003c-d3de-4871-a60d-f19ad16b766e)
 
 
