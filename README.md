@@ -5,6 +5,7 @@ team project during BeCode Bootcamp
 Appendices: final project presentation (PDF), project report.
 
 **PROJECT PURPOSE**
+
 Your company faces a thrilling task: devising a secure and efficient network solution for a client transitioning to a new office space. Their current infrastructure is in need of an upgrade, and your objective is to develop a cost-effective plan that maximizes resource utilization while prioritizing stringent security measures.
 
 iSCSI, short for Internet Small Computer System Interface, serves as a protocol for establishing and managing connections between various storage devices, such as disk arrays or tape drives, over an IP network. It enables the seamless remote access and utilization of storage resources as if they were locally connected.
