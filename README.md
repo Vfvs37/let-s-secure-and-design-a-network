@@ -1,5 +1,7 @@
 # let-s-secure-and-design-a-network
 team project during BeCode Bootcamp
+
+
 Appendices: final project presentation (PDF), project report.
 
 **PROJECT PURPOSE**
