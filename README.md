@@ -18,10 +18,10 @@ Within Packet Tracer, a renowned network simulation tool, the representation of 
 * Active Directory and DNS server
 * DMZ concept (through VLANs and ACLs)
 * Four network sectors :
-     -Management/Secretariat (5 workstations)
-     -Study (8 workstations)
-     -Production (10 workstations)
-     -Support (2 sectors, 10 workstations each)
+     - Management/Secretariat (5 workstations)
+     - Study (8 workstations)
+     - Production (10 workstations)
+     - Support (2 sectors, 10 workstations each)
 
 
 
