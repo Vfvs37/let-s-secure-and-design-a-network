@@ -2,7 +2,7 @@
 team project during BeCode Bootcamp
 
 
-Appendices: final project presentation (PDF), project report.
+> Appendices: final project presentation (PDF), project report.
 
 **PROJECT PURPOSE**
 
